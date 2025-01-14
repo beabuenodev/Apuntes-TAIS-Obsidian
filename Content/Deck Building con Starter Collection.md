@@ -1,0 +1,6 @@
+- Aurelia, the War Leader - https://www.archidekt.com/decks/10339745/aurelia_foundations_starter_collection
+- Alesha, Who Laughs At Fate - https://www.archidekt.com/decks/9981066/alesha_who_laughs_at_fate_built_from_beginner_boxstarter_collection_primarily
+- Elenda, Saint of Dusk - https://www.archidekt.com/decks/9981069/elenda_saint_of_dusk_built_from_beginner_boxstarter_collection_primarily
+- Kutzil, Malamet Exemplar - https://www.archidekt.com/decks/9981242/kutzil_malamet_exemplar_built_from_beginner_boxstarter_collection_primarily
+- Nix-Mizzet, Visionary - https://www.archidekt.com/decks/9981063/nivmizzet_visionary_built_from_beginner_boxstarter_collection_primarily
+- Tatyova, Benthic Druid - https://www.archidekt.com/decks/9981119/tatyova_benthic_druid_built_from_beginner_boxstarter_collection_primarily

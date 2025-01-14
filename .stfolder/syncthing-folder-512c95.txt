@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: gee6r-cerao
+created: 2025-01-06T17:15:21+01:00

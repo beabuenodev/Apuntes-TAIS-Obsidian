@@ -1,0 +1,1 @@
+- Es el postorden inverso de un DAG es una ordenación topológica
