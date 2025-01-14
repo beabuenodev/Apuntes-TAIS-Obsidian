@@ -1,0 +1,8 @@
+- El algoritmo voraz que resuelve el problema del cambio de monedas - **a base de elegir la moneda no elegida de mayor valor** que no se pase de la cantidad a pagar **NO** siempre produce soluciones óptimas.
+	- En los sistemas de monedas no canónicos no funciona.
+	- Un sistema de monedas canónico indica que las monedas están dispuestas de tal manera que las combinaciones de las monedas de menor valor complementan correctamente las de mayor valor.
+- El peso limite de la mochila no influye en el coste asintótico del algoritmo voraz que lo resuelve cuando los objetos pueden fraccionarse.
+- El algoritmo voraz para el problema de la mochila fraccionable no se puede aplicar directamente para resolver el caso en que los objetos no puedan fraccionarse ya que no produce soluciones óptimas.
+- En una versión del problema de la mochila real en que todos los objetos tienen le mismo valor, entonces una estrategia que elige los objetos de menor a mayor peso es óptima para el problema.
+- En el problema de la mochila real, si hay subconjunto de objetos cuya suma de pesos es igual al peso límite, ese subconjunto no es necesariamente solución óptima.
+- 

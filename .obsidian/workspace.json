@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba659dcf1f62a42f",
+        "id": "b4bc1e0cc2db8f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "75e417be1b2bb4ab",
+            "id": "ae58b49e9f651d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TAIS/Semana 6 - ARM/Arboles de Recubrimiento de Coste Mínimo.md",
-                "mode": "source",
-                "source": false
+                "file": "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/reconstrucción moendas.png"
               },
-              "icon": "lucide-file",
-              "title": "Arboles de Recubrimiento de Coste Mínimo"
+              "icon": "lucide-image",
+              "title": "reconstrucción moendas"
             }
           }
         ]
@@ -159,55 +157,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "75e417be1b2bb4ab",
+  "active": "86e383c561fadf6f",
   "lastOpenFiles": [
+    "TAIS/Semana 10 - Programación dinámica (I)/Problema del cambio.md",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/reconstrucción moendas.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Programación dinámica.md",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Tablas monedas.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Casos básicos.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Monedas - recursión.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/monedas(i, j).png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Problema del cambio.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Pascal - 2.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Pascal - 1.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Matriz dinámica.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Combinatorios.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes",
+    "TAIS/Semana 10 - Programación dinámica (I)",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Cuestionario de autoevaluación.md",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Apuntes Test.md",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Cuestionario de control.md",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Tareas con plazo y beneficio.md",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Tiempo en el sistema mínimo.md",
+    "TAIS/Semana 9 - Algoritmos voraces (II)/Imágenes",
+    "TAIS/Semana 9 - Algoritmos voraces (II)",
+    "TAIS/Semana 8 - Algoritmos voraces/Cuestionario de autoevaluación.md",
+    "TAIS/Semana 8 - Algoritmos voraces/Apuntes Test.md",
+    "TAIS/Semana 8 - Algoritmos voraces/Algoritmos voraces.md",
+    "TAIS/Semana 8 - Algoritmos voraces/Imágenes",
+    "TAIS/Semana 8 - Algoritmos voraces",
+    "Content/Deck Building con Starter Collection.md",
+    "TAIS/Semana 6 - ARM/Arboles de Recubrimiento de Coste Mínimo.md",
     "TAIS/Semana 4 - Grafos no dirigidos/Recorrido en Profundidad.md",
     "TAIS/Semana 6 - ARM/Grafos Valorados.md",
     "TAIS/Semana 6 - ARM/Conjuntos Disjuntos.md",
-    "TAIS/Semana 6 - ARM/Arboles de Recubrimiento de Coste Mínimo.md",
-    "TAIS/Semana 7 - Digrafos valorados/Imagenes/Control - 10.png",
-    "TAIS/Semana 5 - Grafos dirigidos/Imagenes/Auto - 10.png",
-    "TAIS/Semana 6 - ARM/Imagenes/Control - 6.png",
-    "TAIS/Semana 6 - ARM/Imagenes/Control - 8.png",
-    "TAIS/Semana 4 - Grafos no dirigidos/Imagenes/Control - 8.png",
     "TAIS/Semana 3 - Heapsort y prio var/Cuestionario de autoevaluacion.md",
-    "TAIS/Semana 6 - ARM/Imagenes/Control - 5.png",
     "TAIS/Semana 7 - Digrafos valorados/Cuestionario de autoevaluacion.md",
-    "TAIS/Semana 6 - ARM/Imagenes/Auto - 6.png",
     "TAIS/Semana 4 - Grafos no dirigidos/Cuestionario de control.md",
     "TAIS/Semana 7 - Digrafos valorados/Caminos mínimos.md",
     "TAIS/Semana 1 - AVL/Cuestionario de Autoevaluación.md",
-    "TAIS/Semana 3 - Heapsort y prio var/Imagenes/Control - 4.png",
-    "TAIS/Semana 2 - Colas prioridad/Images/Costes Cola.png",
-    "TAIS/Semana 7 - Digrafos valorados/Imagenes/Control - 1.png",
     "TAIS/Semana 1 - AVL/Mantenimiento del tamaño del hijo izquierdo con las rotaciones.md",
     "TAIS/Semana 5 - Grafos dirigidos/Cuestionario de control.md",
     "TAIS/Semana 5 - Grafos dirigidos/Detección de Ciclos.md",
     "TAIS/Semana 5 - Grafos dirigidos/Apuntes Test.md",
     "TAIS/Semana 6 - ARM/Apuntes Test.md",
     "TAIS/Semana 1 - AVL/TreeSet_AVL.h",
-    "TAIS/Semana 5 - Grafos dirigidos/Grafos Dirigidos.md",
-    "TAIS/Semana 6 - ARM/Cuestionario de control.md",
-    "TAIS/Semana 2 - Colas prioridad/Cuestionario de autoevaluación.md",
-    "TAIS/Semana 5 - Grafos dirigidos/Cuestionario de Autoevaluacion.md",
-    "TAIS/Semana 6 - ARM/Cuestionario de autoevaluación.md",
-    "TAIS/Semana 4 - Grafos no dirigidos/Recorrido en Anchura.md",
-    "TAIS/Semana 2 - Colas prioridad/Montículos binarios.md",
-    "TAIS/Semana 3 - Heapsort y prio var/Heapsort.md",
-    "TAIS/Semana 3 - Heapsort y prio var/Colas con Prioridades Variables.md",
-    "TAIS/Semana 3 - Heapsort y prio var/Cuestionario de control.md",
-    "TAIS/Semana 4 - Grafos no dirigidos/Grafos no dirigidos.md",
     "TAIS/Semana 7 - Digrafos valorados/Imagenes",
     "TAIS/Semana 7 - Digrafos valorados",
-    "TAIS/Semana 6 - ARM/Imagenes",
-    "TAIS/Semana 6 - ARM",
-    "TAIS/Semana 5 - Grafos dirigidos/Imagenes",
-    "TAIS/Semana 5 - Grafos dirigidos",
-    "TAIS/Semana 4 - Grafos no dirigidos/Imagenes",
-    "TAIS/Semana 4 - Grafos no dirigidos",
-    "TAIS/Semana 3 - Heapsort y prio var/Imagenes"
+    "TAIS/Semana 6 - ARM/Imagenes"
   ]
 }
