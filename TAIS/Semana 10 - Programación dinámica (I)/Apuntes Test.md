@@ -1,0 +1,10 @@
+- Al calcular el número combinatorio utilizando recursión sin memoria, el número de veces que se repite un subproblema puede llegar a estar en $O(2^n)$ 
+- En el problema del cambio de monedas aplicado en programación dinámica permite el uso de sistemas monetarios canónicos y no canónicos, pero la solución no es siempre única.
+- ![[Test Comb - 1.png]]
+- ![[Test Comb - 2.png]]
+- ![[Test Combi - 3.png]]
+- El coste del algoritmo de programación dinámica ascendente que resuelve 
+- En el problema del cambio de monedas, los índices de la última fila que contienen infinito son aquellos que no se pueden pagar con las denominaciones.
+- Al calcular un número combinatorio (n r) mediante programación dinámica descendente, el número de subproblemas distintos que se resuelven es (n + 1)*(r + 1)
+- Al calcular un número combinatorio (n r) mediante programación dinámica ascendente, el número de veces que se repite cada subproblema está en O(1), es sólo una vez.
+- $minCoins[j]=min(minCoins[j],minCoins[j−ci​]+1)$  

@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/reconstrucción moendas.png"
+                "file": "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/mochila -  3.png"
               },
               "icon": "lucide-image",
-              "title": "reconstrucción moendas"
+              "title": "mochila -  3"
             }
           }
         ]
@@ -163,18 +163,23 @@
   },
   "active": "86e383c561fadf6f",
   "lastOpenFiles": [
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/mochila - 3.png",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/mochila - 2.png",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/mochila - 1.png",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/sum - 2.png",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/sum 1.png",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes",
+    "TAIS/Semana 11 - Programación dinámica (II)/Problema de la mochila entera.md",
+    "TAIS/Semana 11 - Programación dinámica (II)/Imágenes/mochila -  3.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Auto - 1.png",
+    "TAIS/Semana 11 - Programación dinámica (II)",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Auto - 10.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Auto - 9.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Auto - 8.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Cuestionario de autoevaluación.md",
     "TAIS/Semana 10 - Programación dinámica (I)/Problema del cambio.md",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/reconstrucción moendas.png",
+    "TAIS/Semana 10 - Programación dinámica (I)/Apuntes Test.md",
     "TAIS/Semana 10 - Programación dinámica (I)/Programación dinámica.md",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Tablas monedas.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Casos básicos.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Monedas - recursión.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/monedas(i, j).png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Problema del cambio.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Pascal - 2.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Pascal - 1.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Matriz dinámica.png",
-    "TAIS/Semana 10 - Programación dinámica (I)/Imágenes/Combinatorios.png",
     "TAIS/Semana 10 - Programación dinámica (I)/Imágenes",
     "TAIS/Semana 10 - Programación dinámica (I)",
     "TAIS/Semana 9 - Algoritmos voraces (II)/Cuestionario de autoevaluación.md",
@@ -201,12 +206,7 @@
     "TAIS/Semana 1 - AVL/Cuestionario de Autoevaluación.md",
     "TAIS/Semana 1 - AVL/Mantenimiento del tamaño del hijo izquierdo con las rotaciones.md",
     "TAIS/Semana 5 - Grafos dirigidos/Cuestionario de control.md",
-    "TAIS/Semana 5 - Grafos dirigidos/Detección de Ciclos.md",
-    "TAIS/Semana 5 - Grafos dirigidos/Apuntes Test.md",
-    "TAIS/Semana 6 - ARM/Apuntes Test.md",
     "TAIS/Semana 1 - AVL/TreeSet_AVL.h",
-    "TAIS/Semana 7 - Digrafos valorados/Imagenes",
-    "TAIS/Semana 7 - Digrafos valorados",
-    "TAIS/Semana 6 - ARM/Imagenes"
+    "TAIS/Semana 7 - Digrafos valorados/Imagenes"
   ]
 }
